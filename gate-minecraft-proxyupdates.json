@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "Downloading files...",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "gate_*_linux_amd64",
+        "UpdateSourceArgs": "minekube/gate",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
